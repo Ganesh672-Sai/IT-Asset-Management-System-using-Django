@@ -13,13 +13,12 @@ This application will help you manage equipment assets
 3. Add/Maintenance/Delete models, types, location etc
 4. Tracking assets (assigned to user and prints receipt document)<br>
 
-> [WiKi](https://github.com/dalasidaho/asset_management/wiki)
+> [WiKi](https://github.com/Ganesh672-Sai/IT-Asset-Management-System-using-Django)
 ***
 ### Front-End
 
 ![Device list](scr/devlist.PNG "Device list")
 ![Customer list](scr/customlist.PNG "Customer list")
-![Tracking](scr/Track.PNG "Tracking")
 
 ### Back-End [interface](https://github.com/dalasidaho/asset_management/wiki/Backend-interfase "backend").
 
