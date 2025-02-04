@@ -20,8 +20,6 @@ This application will help you manage equipment assets
 ![Device list](scr/devlist.PNG "Device list")
 ![Customer list](scr/customlist.PNG "Customer list")
 
-### Back-End [interface](https://github.com/dalasidaho/asset_management/wiki/Backend-interfase "backend").
-
 
 ### Installation:
 ***
